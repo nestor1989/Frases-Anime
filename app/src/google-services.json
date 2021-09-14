@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897566276252",
+    "project_id": "frases-anime",
+    "storage_bucket": "frases-anime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897566276252:android:ca8ee63ae5d96b6ce60b59",
+        "android_client_info": {
+          "package_name": "com.idea3d.examplemvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897566276252-1e7nb8ch2q906du4eqlcbjoofdpnlsp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIv9Ajg4DzzcrdN64c9QDNIPqwLpvHWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897566276252-1e7nb8ch2q906du4eqlcbjoofdpnlsp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
